@@ -1,4 +1,4 @@
-## About Laravel
+## About this project
 
 Branches - for version with authentification please use Validation branch. In Master you can find a version without authentification.
 
